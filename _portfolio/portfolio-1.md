@@ -5,8 +5,3 @@ collection: portfolio
 ---
 
 Working on alternative splicing events observed in diabetic and prediabetic cells
-
----
-title: "Undergrad Research Intern"
-excerpt: "Alternative splicing for stem cells proliferation and differenciation"
----
